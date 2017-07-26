@@ -1,7 +1,7 @@
 # public
 Public notebooks
 
-To __properly__ view the notebooks, they should be viewed via [NBViewer][nbvp].
+To __properly__ view the notebooks, they should be viewed via [NBViewer][nbvp]. (Click link to browse this repo in NBViewer).
 
 Read more about NBViewer on [nbviewer.jupyter.org][nbv].
 
