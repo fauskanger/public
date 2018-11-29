@@ -11,6 +11,7 @@ Table of workshops generated from [the overview page][ws].
 |---|---|---|---|
 |  | January 26 | Beginner | [ML in your organization: a practical toolbox to identify and seize highest value opportunities in Machine Learning](https://www.appliedmldays.org/workshops/ml-in-your-organization-a-practical-toolbox-to-identify-and-seize-highest-value-opportunities-in-machine-learning) |
 |  | January 26 | Beginner | [Tutorial: Build your first predictive model to forecast and detect anomalies](https://www.appliedmldays.org/workshops/tutorial-build-your-first-predictive-model-to-forecast-and-detect-anomalies) |
+|  | January 26 | Beginner | [Reatching into the Rabbit Hole: Should we replace teachers with AI?](https://www.appliedmldays.org/workshops/reatching-into-the-rabbit-hole-should-we-replace-teachers-with-ai) |
 |  | January 26 | Intermediate | [Hands-on deep learning with TensorFlow.js](https://www.appliedmldays.org/workshops/hands-on-deep-learning-with-tensorflow-js) |
 |  | January 26 | Intermediate | [Engineering for good - detecting pneumonia in X-Ray images](https://www.appliedmldays.org/workshops/engineering-for-good-detecting-pneumonia-in-x-ray-images) |
 | 09:00-12:00 | January 26 | Intermediate | [PySpark: Big Data Processing and Machine Learning with Python](https://www.appliedmldays.org/workshops/pyspark-big-data-processing-and-machine-learning-with-python) |
@@ -19,7 +20,7 @@ Table of workshops generated from [the overview page][ws].
 | 09:00-16:30 | January 26 | Intermediate | [Learning and Processing over Networks](https://www.appliedmldays.org/workshops/learning-and-processing-over-networks) |
 | 09:00-16:30 | January 26 | Intermediate | [Applied Machine Learning for Anomaly Detection on Equipment](https://www.appliedmldays.org/workshops/applied-machine-learning-for-anomaly-detection-on-equipment) |
 | 09:00-16:30 | January 26 | Intermediate | [TensorFlow Basics - Saturday](https://www.appliedmldays.org/workshops/tensorflow-basics-saturday) |
-| 13:30-16:30 | January 26 | Intermediate | [Language Technology and Finance](https://www.appliedmldays.org/workshops/language-technology-and-finance) |
+| 13:30-16:30 | January 26 | Beginner | [Applied Language Technologies](https://www.appliedmldays.org/workshops/applied-language-technologies) |
 | 13:30-16:30 | January 26 | Intermediate | [Using PySpark and interactive Jupyter notebook on Amazon Clusters](https://www.appliedmldays.org/workshops/using-pyspark-and-interactive-jupyter-notebook-on-amazon-clusters) |
 |  | January 27 | Beginner | [Policy-Making and Data Economy at the city level: utopia or reality?](https://www.appliedmldays.org/workshops/policy-making-and-data-economy-at-the-city-level-utopia-or-reality) |
 |  | January 27 | Beginner | [Industrial open data](https://www.appliedmldays.org/workshops/industrial-open-data) |
