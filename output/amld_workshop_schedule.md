@@ -1,3 +1,12 @@
+
+## Applied Machine Learning Days
+Table of workshops generated from [the overview page][ws].
+
+\[ For the curious on [how it was created][jnb] \]
+
+[ws]: https://www.appliedmldays.org/workshops.html
+[jnb]: https://nbviewer.jupyter.org/github/fauskanger/public/blob/master/AppliedMachineLearningDaysWorkshopTableGenerator.ipynb
+
 | Time | Date | Level | Title 
 |---|---|---|---|
 | 09:00-12:00 | January 26 | Beginner | [ML in your organization: a practical toolbox to identify and seize highest value opportunities in Machine Learning](https://www.appliedmldays.org/workshops/ml-in-your-organization-a-practical-toolbox-to-identify-and-seize-highest-value-opportunities-in-machine-learning)| 
