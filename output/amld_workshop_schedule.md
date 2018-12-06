@@ -1,9 +1,15 @@
 
 ## Applied Machine Learning Days
-Table of workshops generated from [the overview page][ws].
+Table of workshops generated from [the overview page][ws]. 
+
+Versions: [normal][n] | [with prerequisites][wp] 
+
+
 
 \[ For the curious on [how it was created][jnb] \]
 
+[n]: ./amld_workshop_schedule.md
+[wp]: ./amld_workshop_schedule_w_prereqs.md
 [ws]: https://www.appliedmldays.org/workshops.html
 [jnb]: https://nbviewer.jupyter.org/github/fauskanger/public/blob/master/AppliedMachineLearningDaysWorkshopTableGenerator.ipynb
 
