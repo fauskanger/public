@@ -31,8 +31,8 @@ Versions: [normal][n] | [with prerequisites][wp]
 | `---███` | 13:30-16:30 | January 26 | Intermediate | [Engineering for good - detecting pneumonia in X-Ray images](https://www.appliedmldays.org/workshops/engineering-for-good-detecting-pneumonia-in-x-ray-images)| 
 | `---███` | 13:30-16:30 | January 26 | Intermediate | [Using PySpark and interactive Jupyter notebook on Amazon Clusters](https://www.appliedmldays.org/workshops/using-pyspark-and-interactive-jupyter-notebook-on-amazon-clusters)| 
 | `---███` | 13:30-16:30 | January 26 | Advanced | [Deep Learning optimization and deployment with TensorRT in TensorFlow and Python](https://www.appliedmldays.org/workshops/deep-learning-optimization-and-deployment-with-tensorrt-in-tensorflow-and-python)| 
-| `██████` | 09:00-16:30 | January 27 | Beginner | [Machine Learning for fake news detection: theory and practice](https://www.appliedmldays.org/workshops/machine-learning-for-fake-news-detection-theory-and-practice)| 
 | | | | | |
+| `██████` | 09:00-16:30 | January 27 | Beginner | [Machine Learning for fake news detection: theory and practice](https://www.appliedmldays.org/workshops/machine-learning-for-fake-news-detection-theory-and-practice)| 
 | `██████` | 09:00-16:30 | January 27 | Beginner | [Crashcourse in R for machine learning](https://www.appliedmldays.org/workshops/crashcourse-in-r-for-machine-learning)| 
 | `██████` | 09:00-16:30 | January 27 | Intermediate | [TensorFlow Basics - Sunday](https://www.appliedmldays.org/workshops/tensorflow-basics-sunday)| 
 | `██████` | 09:00-16:30 | January 27 | Intermediate | [Blue Brain Nexus, a knowledge graph for data driven projects](https://www.appliedmldays.org/workshops/blue-brain-nexus-a-knowledge-graph-for-data-driven-projects)| 
