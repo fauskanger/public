@@ -36,11 +36,12 @@ Versions: [normal][n] | [with prerequisites][wp]
 | `██████` | 09:00-16:30 | January 27 | Beginner | [Crashcourse in R for machine learning](https://www.appliedmldays.org/workshops/crashcourse-in-r-for-machine-learning)| 
 | `██████` | 09:00-16:30 | January 27 | Intermediate | [TensorFlow Basics - Sunday](https://www.appliedmldays.org/workshops/tensorflow-basics-sunday)| 
 | `██████` | 09:00-16:30 | January 27 | Intermediate | [Blue Brain Nexus, a knowledge graph for data driven projects](https://www.appliedmldays.org/workshops/blue-brain-nexus-a-knowledge-graph-for-data-driven-projects)| 
-| `██████` | 09:00-16:30 | January 27 | Intermediate | [Machine Learning Competition: Tennis Prediction](https://www.appliedmldays.org/workshops/machine-learning-competition-tennis-prediction)| 
+| `██████` | 09:00-16:30 | January 27 | Intermediate | [Machine Learning Competition: Tennis Analysis](https://www.appliedmldays.org/workshops/machine-learning-competition-tennis-analysis)| 
 | `██████` | 09:00-17:30 | January 27 | Intermediate | [Machine Learning in Finance](https://www.appliedmldays.org/workshops/machine-learning-in-finance)| 
 | `██████` | 10:00-17:00 | January 27 | Beginner | [GirlsCoding at Applied Machine Learning Days](https://www.appliedmldays.org/workshops/girlscoding-at-applied-machine-learning-days)| 
 | `███---` | 09:00-12:00 | January 27 | Beginner | [Shipshape open data](https://www.appliedmldays.org/workshops/shipshape-open-data)| 
 | `███---` | 09:00-12:00 | January 27 | Beginner | [Explainable AI: How to demystify machine learning models](https://www.appliedmldays.org/workshops/explainable-ai-how-to-demystify-machine-learning-models)| 
+| `███---` | 09:00-12:00 | January 27 | Beginner | [Hands-on PyTorch tutorial](https://www.appliedmldays.org/workshops/hands-on-pytorch-tutorial)| 
 | `███---` | 09:00-12:00 | January 27 | Intermediate | [Enabling Resilience with Remote Sensing](https://www.appliedmldays.org/workshops/enabling-resilience-with-remote-sensing)| 
 | `---███` | 13:30-16:30 | January 27 | Beginner | [Policy-Making and Data Economy at the city level: utopia or reality?](https://www.appliedmldays.org/workshops/policy-making-and-data-economy-at-the-city-level-utopia-or-reality)| 
 | `---███` | 13:30-16:30 | January 27 | Beginner | [Building an on-device voice assistant with Snips](https://www.appliedmldays.org/workshops/building-an-on-device-voice-assistant-with-snips)| 
